@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66241620c9ac75ab9131ab7d"
+  },
+  "description": "Inquiry description",
+  "user_id": "66235cb38cf9bb1868b52390",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662417e516dd8beed3250e15"
+  },
+  "description": "ssadasd",
+  "user_id": "66235cb38cf9bb1868b52390",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624180616dd8beed3250e1d"
+  },
+  "description": "asdasdasd",
+  "user_id": "66235cb38cf9bb1868b52390",
+  "__v": 0
+}]

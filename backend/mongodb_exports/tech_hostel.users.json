@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "66235cb38cf9bb1868b52390"
+  },
+  "full_name": "Kelum Thennakon",
+  "batch": "1",
+  "course": "Cyber Security",
+  "password": "62b137089d1703f55bcc9a3fb1e091d7",
+  "email": "student001@uni.academy",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoic3R1ZGVudDAwMUB1bmkuYWNhZGVteSIsImlhdCI6MTcxMzY5NTA2NywiZXhwIjoxNzE0Mjk5ODY3fQ.hYBhbHDEQ7nZinkt47LIMR1zTAP8-AjqKx0xYekWynY",
+  "year": "3rd"
+}]

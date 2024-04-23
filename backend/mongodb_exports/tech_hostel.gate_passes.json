@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6624be24aea7a56d93d10f7b"
+  },
+  "start_date": {
+    "$date": "2024-04-21T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "description": "Testing",
+  "state": "declined",
+  "user_id": "66235cb38cf9bb1868b52390",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624c5ceaea7a56d93d10f98"
+  },
+  "start_date": {
+    "$date": "2024-04-24T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "description": "sadasdsad",
+  "state": "approved",
+  "user_id": "66235cb38cf9bb1868b52390",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6624cb82aea7a56d93d10fa8"
+  },
+  "start_date": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "description": "assadasd",
+  "state": "pending",
+  "user_id": "66235cb38cf9bb1868b52390",
+  "__v": 0
+}]
